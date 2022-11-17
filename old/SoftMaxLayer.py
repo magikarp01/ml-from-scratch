@@ -1,3 +1,5 @@
+import numpy as np
+
 class SoftmaxLayer:
   def __init__(self):
     return

@@ -1,5 +1,6 @@
 # Convolutional, Pooling, Flattening Layers
-
+import numpy as np
+import math
 
 # A class for a convolutional layer
 class ConvLayer:
